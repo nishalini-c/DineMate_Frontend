@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DineMate_Frontend/static/css/main.968e3bea.css",
+    "main.js": "/DineMate_Frontend/static/js/main.e5406458.js",
+    "static/media/Artboard 2 (1).png": "/DineMate_Frontend/static/media/Artboard 2 (1).434ca60a76a0d94b8ab4.png",
+    "static/media/hero-bg.jpg": "/DineMate_Frontend/static/media/hero-bg.d246ce4007858a2604b4.jpg",
+    "index.html": "/DineMate_Frontend/index.html",
+    "main.968e3bea.css.map": "/DineMate_Frontend/static/css/main.968e3bea.css.map",
+    "main.e5406458.js.map": "/DineMate_Frontend/static/js/main.e5406458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968e3bea.css",
+    "static/js/main.e5406458.js"
+  ]
+}
